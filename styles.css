@@ -3,7 +3,7 @@
     background-color:#950A0A;
     color:white;
     display:flex
-    justify-content:space-around
+    justify-content:space-around;
     align-item:center;
     padding: 24px 0;
 }
