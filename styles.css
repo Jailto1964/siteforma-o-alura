@@ -2,9 +2,9 @@
 
     background-color:#950A0A;
     color:white;
-    display:flex
-    justify-content:space-around;
-    align-item:center;
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
     padding: 24px 0;
 }
 
